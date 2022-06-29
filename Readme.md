@@ -5,3 +5,7 @@
 
 - In description of the installed module will display the module you have selected
 ![](https://github.com/PycmShoma/OpenGLDriverChanger/blob/main/assets/Driver.png)
+
+
+## Download
+ https://github.com/PycmShoma/OpenGLDriverChanger/releases 
